@@ -1,0 +1,37 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.cards {
+    background-color:rgba(134, 166, 157, 0.459);
+    margin: 1em auto;
+    text-align: center;
+    border: 2px solid #86A69D;
+    border-radius: 5px;
+    padding: 1em 3em;
+    width: 300px;
+    height: 200px;
+}
+
+h4 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    text-transform: uppercase;
+    white-space: nowrap;
+    margin-bottom: 1em;
+}
+
+.textuel {
+    color: rgb(85, 85, 85);
+    text-align: justify;
+}
+
+@media (max-width: 960px) {
+    .cards {
+        width: 90%;
+        padding: 0.5em 1em;
+        margin: 0.5em auto;
+        text-align: center;
+    }
+}
