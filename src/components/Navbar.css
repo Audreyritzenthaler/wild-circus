@@ -4,10 +4,6 @@
     padding: 0;
 }
     
-.wrapper {
-    
-}
-    
 ul {
     display: flex;
     flex-flow: row wrap;
@@ -24,12 +20,12 @@ li {
 a {
     text-decoration: none;
     padding: 0.6em;
-    color: black;
+    color: #74B2B2;
     border-radius: 5px;
 }
     
 a:hover {
     color: white;
-    background-color: black;
+    background-color: #86A69D;
     transition: 0.8s ease;
 }

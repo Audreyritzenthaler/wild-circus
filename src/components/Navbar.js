@@ -4,7 +4,7 @@ import './Navbar.css';
 
 const Navbar = () => {
     return (
-        <div className="wrapper">
+        <div>
             <ul>
                 <li>
                     <a href="https://github.com/Audreyritzenthaler">Performances</a> 
