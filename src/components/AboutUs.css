@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.mainAbout {
+    background-color: rgba(134, 166, 157, 0.603);
+}
+
+h3 {
+    font-family: 'Playfair Display', serif;
+    font-size: 40px;
+    text-transform: uppercase;
+    color: #74B2B2;
+    margin: 2em;
+    padding-top: 1em;
+}
+
+p {
+    font-family: 'Dancing Script', cursive;
+    font-size: 28px;
+    color: rgb(90, 90, 90);
+    margin: auto;
+    padding-bottom: 1.5em;
+    width: 70%;
+    text-align: justify;
+}
