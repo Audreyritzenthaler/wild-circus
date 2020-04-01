@@ -7,7 +7,7 @@ const AboutUs = (props) => {
             <div className="image">
                 <img src={props.image}/>
             </div>
-            <div>
+            <div className="textAboutUs">
                 <h3>{props.title}</h3>
                 <p>{props.textAboutUs}</p>
             </div>
