@@ -6,8 +6,8 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <Navbar />
       <Header />
+      <Navbar />
     </div>
   );
 }
