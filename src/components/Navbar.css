@@ -1,0 +1,32 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+    
+ul {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
+    
+li {
+    list-style: none;
+    margin: 2em 0.5em;
+    font-size: 24px;
+    text-transform: uppercase;
+}
+    
+a {
+    text-decoration: none;
+    padding: 0.6em;
+    color: rgb(43, 43, 43);
+    border-radius: 3px;
+}
+    
+a:hover {
+    color: white;
+    background-color: rgb(63, 63, 63);
+    box-shadow: ;
+    transition: 0.8s ease;
+}
