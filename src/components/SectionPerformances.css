@@ -31,7 +31,7 @@ img {
     filter: grayscale(100%);
 }
 
-div {
+.divPerf {
     width: 80%;
     margin: 1em auto;
 }

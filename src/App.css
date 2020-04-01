@@ -1,15 +1,22 @@
-.App {
+/*.App {
   text-align: center;
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   justify-content: center;
   margin: auto;
+}*/
+
+.card {
+  display: flex;
+  flex-flow: row nowrap;
+  width: 80%;
+  margin: 2.5em auto;
 }
 
 @media (max-width: 960px) {
-  .App {
+  .card {
       display: flex;
       flex-direction: column;
-      width: 100%;
+      width: 60%;
   }
 }
