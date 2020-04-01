@@ -7,7 +7,7 @@
 ul {
     display: flex;
     flex-flow: row wrap;
-    justify-content: flex-end;
+    justify-content: center;
 }
     
 li {
@@ -20,12 +20,13 @@ li {
 a {
     text-decoration: none;
     padding: 0.6em;
-    color: #74B2B2;
-    border-radius: 5px;
+    color: rgb(43, 43, 43);
+    border-radius: 3px;
 }
     
 a:hover {
     color: white;
-    background-color: #86A69D;
+    background-color: rgb(63, 63, 63);
+    box-shadow: ;
     transition: 0.8s ease;
 }
