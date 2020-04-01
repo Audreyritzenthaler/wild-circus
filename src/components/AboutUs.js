@@ -4,8 +4,13 @@ import './AboutUs.css';
 const AboutUs = (props) => {
     return (
         <div className="mainAbout">
-            <h3>{props.title}</h3>
-            <p>{props.textAboutUs}</p>
+            <div className="image">
+                <img src={props.image}/>
+            </div>
+            <div>
+                <h3>{props.title}</h3>
+                <p>{props.textAboutUs}</p>
+            </div>
         </div>
     )
 }
