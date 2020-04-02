@@ -13,6 +13,13 @@
   margin: 2.5em auto;
 }
 
+.tabp {
+  margin: 5em auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
 @media (max-width: 960px) {
   .card {
       display: flex;

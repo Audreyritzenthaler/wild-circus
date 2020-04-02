@@ -36,7 +36,7 @@ p {
     margin: auto;
 }
 
-img {
+.imgAbout {
     width: 500px;
     filter: grayscale();
     margin: 0.2em auto;
