@@ -1,6 +1,6 @@
-## Here the link for the quest **DECOUVERTE DE NETLIFY** released at **Wild Code School** ; https://determined-payne-8537e8.netlify.com
+### Here the link for the quest **"DECOUVERTE DE NETLIFY"** released at **Wild Code School** ; https://determined-payne-8537e8.netlify.com
 
-# ps ; the link in the quest was a 404 error, so I deployed a personnal project !
+## ps ; the link in the quest was a 404 error, so I deployed a personnal project !
 
 
 
