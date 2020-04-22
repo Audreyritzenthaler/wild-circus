@@ -1,0 +1,63 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.mytab {
+    display: flex;
+    flex-direction: column;
+    box-shadow: 15px 25px 20px rgb(158, 158, 158);
+    width : 20%;
+    margin: 1em;
+    border-radius: 5px
+}
+
+.logoPrice {
+    margin: 2em auto 0 auto;
+    width: 64px;
+}
+
+.mytab:hover {
+    transform: scale(1.1);
+    transition: 0.5s ease;
+}
+
+h5 {
+    font-family: 'Playfair Display', serif;
+    font-size: 30px;
+    text-transform: uppercase;
+    border-bottom: 2px solid black;
+    color: black;
+    text-align: center;
+    padding: 1em 0 1em 0;
+    white-space: nowrap;
+}
+
+.price {
+    font-size: 35px;
+    text-align: center;
+}
+
+.description {
+    text-align: justify;
+    color: rgb(66, 66, 66);
+    margin: 2em auto;
+
+}
+
+.buttonShop {
+    font-family: 'Playfair Display', serif;
+    font-size: 18px;
+    margin: 2em auto;
+    padding: 0.5em 1.5em;
+    border-radius: 50px;
+    width: 150px;
+    white-space: nowrap;
+    box-shadow: 5px 5px 10px rgb(77, 77, 77);
+}
+
+.buttonShop:hover {
+    background-color: black;
+    color: white;
+    transition: 1s ease;
+}
